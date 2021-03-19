@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "이선우 블로그"
 title_separator          : "-"
-subtitle                 : "이선우 블ㄹ로르그"
+subtitle                 : "이선우 블ㄹ"
 name                     : "SunWoo Lee"
 description              : "An amazing website."
 url                      : https://tjsdn9803.github.io
